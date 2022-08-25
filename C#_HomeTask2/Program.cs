@@ -13,7 +13,7 @@ bool result = true;
     else
         {
             result = false;
-            Console.WriteLine("Not valid day number, please enter from 1 to 7");
+            Console.WriteLine("Not valid day number, please choose from 1 to 7");
         }
     return result;
 }    
